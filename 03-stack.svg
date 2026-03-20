@@ -1,0 +1,40 @@
+<svg width="860" height="190" viewBox="0 0 860 190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="190" fill="#0d1117"/>
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- section label -->
+  <text x="36" y="30" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3.5" fill="#d4a853" opacity="0.5">/ STACK &amp; TOOLS</text>
+  <!-- vertical dividers -->
+  <line x1="215" y1="44" x2="215" y2="175" stroke="#1a1f2e" stroke-width="1"/>
+  <line x1="430" y1="44" x2="430" y2="175" stroke="#1a1f2e" stroke-width="1"/>
+  <line x1="645" y1="44" x2="645" y2="175" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- horizontal rule under label -->
+  <line x1="0" y1="44" x2="860" y2="44" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- col 1: AI Tools -->
+  <text x="36" y="66" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3" fill="#d4a853" opacity="0.55">AI TOOLS</text>
+  <text x="36" y="88" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Claude Code</text>
+  <text x="36" y="106" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Cursor</text>
+  <text x="36" y="124" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">V0.dev</text>
+  <text x="36" y="142" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">n8n  (certified)</text>
+  <text x="36" y="160" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">MCP</text>
+  <!-- col 2: Backend -->
+  <text x="232" y="66" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3" fill="#d4a853" opacity="0.55">BACKEND</text>
+  <text x="232" y="88" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Python 3.11+</text>
+  <text x="232" y="106" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">FastAPI</text>
+  <text x="232" y="124" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Node.js</text>
+  <text x="232" y="142" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Next.js 14</text>
+  <text x="232" y="160" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">React · TypeScript</text>
+  <!-- col 3: AI / LLMs -->
+  <text x="448" y="66" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3" fill="#d4a853" opacity="0.55">AI / LLMS</text>
+  <text x="448" y="88" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Claude API</text>
+  <text x="448" y="106" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">OpenAI GPT-4o</text>
+  <text x="448" y="124" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">LangChain</text>
+  <text x="448" y="142" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Pinecone RAG</text>
+  <text x="448" y="160" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Groq (LLaMA 3.3)</text>
+  <!-- col 4: Infra -->
+  <text x="662" y="66" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3" fill="#d4a853" opacity="0.55">INFRA / DB</text>
+  <text x="662" y="88" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">PostgreSQL</text>
+  <text x="662" y="106" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Redis · Celery</text>
+  <text x="662" y="124" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Supabase · MongoDB</text>
+  <text x="662" y="142" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Vercel · Railway</text>
+  <text x="662" y="160" font-family="'Courier New', Courier, monospace" font-size="11" fill="#3d4a5c">Git · GitHub</text>
+</svg>

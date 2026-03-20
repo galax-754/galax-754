@@ -1,0 +1,15 @@
+<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="80" fill="#0d1117"/>
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- accent top bar -->
+  <rect x="0" y="0" width="860" height="2" fill="#d4a853" opacity="0.15"/>
+  <!-- left -->
+  <text x="36" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-style="italic" fill="#2a3040">Always building. Always learning.</text>
+  <!-- dots -->
+  <circle cx="36" cy="56" r="2" fill="#d4a853" opacity="0.3"/>
+  <circle cx="46" cy="56" r="2" fill="#d4a853" opacity="0.2"/>
+  <circle cx="56" cy="56" r="2" fill="#d4a853" opacity="0.1"/>
+  <!-- right -->
+  <text x="824" y="38" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="1.5" fill="#2a2a2a">mi-portafolio-zeta-five.vercel.app</text>
+  <text x="824" y="56" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" letter-spacing="1.5" fill="#1e1e1e">github.com/galax-754</text>
+</svg>

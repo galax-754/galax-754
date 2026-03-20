@@ -1,0 +1,23 @@
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="200" fill="#0d1117"/>
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- label -->
+  <text x="36" y="30" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3.5" fill="#d4a853" opacity="0.5">/ EXPERIENCE</text>
+  <line x1="0" y1="44" x2="860" y2="44" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- vertical divider -->
+  <line x1="430" y1="44" x2="430" y2="185" stroke="#1a1f2e" stroke-width="1"/>
+  <!-- left: Sofroma -->
+  <text x="36" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#e2e8f0">Fullstack Developer with AI</text>
+  <text x="36" y="92" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#d4a853" opacity="0.45">SOFROMA · SEP 2025 – PRESENT</text>
+  <text x="36" y="116" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2d3748">3 sistemas end-to-end como dev individual:</text>
+  <text x="36" y="134" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  Sistema de reservas de espacio físico</text>
+  <text x="36" y="152" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  Oficina virtual integrada con Zoom API</text>
+  <text x="36" y="170" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  SaaS con chatbot RAG (LangChain + Pinecone)</text>
+  <!-- right: Digital Hub -->
+  <text x="454" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#e2e8f0">On-Campus Ops Trainee</text>
+  <text x="454" y="92" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#d4a853" opacity="0.45">DIGITAL HUB MONTERREY · 2025</text>
+  <text x="454" y="116" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  Gestión de dispositivos tecnológicos</text>
+  <text x="454" y="134" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  Inventario digital en Notion</text>
+  <text x="454" y="152" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  Orientación a emprendedores</text>
+  <text x="454" y="170" font-family="'Courier New', Courier, monospace" font-size="10.5" fill="#2a3a4a">·  Mejora de experiencia del usuario</text>
+</svg>
