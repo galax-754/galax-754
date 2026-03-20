@@ -1,31 +1,23 @@
 <svg width="860" height="280" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg">
   <rect width="860" height="280" fill="#0d1117"/>
-  <line x1="0" y1="0" x2="860" y2="0" stroke="#1a1f2e" stroke-width="1"/>
-  <!-- label -->
-  <text x="36" y="30" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3.5" fill="#d4a853" opacity="0.5">/ FEATURED PROJECTS</text>
-  <line x1="0" y1="44" x2="860" y2="44" stroke="#1a1f2e" stroke-width="1"/>
-
-  <!-- PROJECT 01 -->
-  <line x1="0" y1="44" x2="860" y2="44" stroke="#1a1f2e" stroke-width="1"/>
-  <text x="36" y="74" font-family="'Courier New', Courier, monospace" font-size="10" fill="#d4a853" opacity="0.3">01</text>
-  <text x="70" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#e2e8f0">Las Madonitas</text>
-  <text x="70" y="94" font-family="'Courier New', Courier, monospace" font-size="10" fill="#2d3748">Artisan bakery website — cinematic hero, GSAP scroll animations, product slider.</text>
-  <text x="70" y="110" font-family="'Courier New', Courier, monospace" font-size="9" fill="#1e2a3a">HTML · CSS3 · JavaScript · GSAP · Vercel</text>
-  <text x="800" y="74" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" fill="#d4a853" opacity="0.4">2 días · Cursor + Claude</text>
-  <line x1="0" y1="124" x2="860" y2="124" stroke="#1a1f2e" stroke-width="1"/>
-
-  <!-- PROJECT 02 -->
-  <text x="36" y="154" font-family="'Courier New', Courier, monospace" font-size="10" fill="#d4a853" opacity="0.3">02</text>
-  <text x="70" y="154" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#e2e8f0">Bug &amp; Feedback Bot</text>
-  <text x="70" y="174" font-family="'Courier New', Courier, monospace" font-size="10" fill="#2d3748">End-to-end automation: Tally → n8n → LLaMA 3.3 → Gmail. Report in &lt;3 seconds.</text>
-  <text x="70" y="190" font-family="'Courier New', Courier, monospace" font-size="9" fill="#1e2a3a">n8n · Tally · Groq API · Gmail OAuth2 · $0 stack</text>
-  <text x="800" y="154" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" fill="#d4a853" opacity="0.4">1 hora · $0</text>
-  <line x1="0" y1="204" x2="860" y2="204" stroke="#1a1f2e" stroke-width="1"/>
-
-  <!-- PROJECT 03 -->
-  <text x="36" y="234" font-family="'Courier New', Courier, monospace" font-size="10" fill="#d4a853" opacity="0.3">03</text>
-  <text x="70" y="234" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#e2e8f0">Sculptd — CV Analyzer</text>
-  <text x="70" y="254" font-family="'Courier New', Courier, monospace" font-size="10" fill="#2d3748">Full stack CV analysis — AI feedback flow, interview steps, CV preview, PDF download.</text>
-  <text x="70" y="270" font-family="'Courier New', Courier, monospace" font-size="9" fill="#1e2a3a">Next.js 14 · Claude API · CSS Modules · PDF generation</text>
-  <text x="800" y="234" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" fill="#d4a853" opacity="0.4">4 días · Claude Code + Cursor</text>
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#30363d" stroke-width="1"/>
+  <text x="36" y="30" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="3.5" fill="#d4a853">/ FEATURED PROJECTS</text>
+  <line x1="0" y1="44" x2="860" y2="44" stroke="#30363d" stroke-width="1"/>
+  <text x="36" y="74" font-family="'Courier New', Courier, monospace" font-size="10" fill="#d4a853" opacity="0.5">01</text>
+  <text x="70" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#ffffff">Las Madonitas</text>
+  <text x="70" y="94" font-family="'Courier New', Courier, monospace" font-size="10" fill="#8b949e">Artisan bakery website — cinematic hero, GSAP scroll animations, product slider.</text>
+  <text x="70" y="112" font-family="'Courier New', Courier, monospace" font-size="9" fill="#6e7681">HTML · CSS3 · JavaScript · GSAP · Vercel</text>
+  <text x="820" y="74" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" fill="#d4a853">2 días · Cursor + Claude</text>
+  <line x1="0" y1="126" x2="860" y2="126" stroke="#30363d" stroke-width="1"/>
+  <text x="36" y="156" font-family="'Courier New', Courier, monospace" font-size="10" fill="#d4a853" opacity="0.5">02</text>
+  <text x="70" y="156" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#ffffff">Bug &amp; Feedback Bot</text>
+  <text x="70" y="176" font-family="'Courier New', Courier, monospace" font-size="10" fill="#8b949e">End-to-end automation: Tally → n8n → LLaMA 3.3 → Gmail. Report in &lt;3 seconds.</text>
+  <text x="70" y="194" font-family="'Courier New', Courier, monospace" font-size="9" fill="#6e7681">n8n · Tally · Groq API · Gmail OAuth2 · $0 stack</text>
+  <text x="820" y="156" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" fill="#d4a853">1 hora · $0</text>
+  <line x1="0" y1="208" x2="860" y2="208" stroke="#30363d" stroke-width="1"/>
+  <text x="36" y="238" font-family="'Courier New', Courier, monospace" font-size="10" fill="#d4a853" opacity="0.5">03</text>
+  <text x="70" y="238" font-family="Georgia, 'Times New Roman', serif" font-size="17" fill="#ffffff">Sculptd — CV Analyzer</text>
+  <text x="70" y="258" font-family="'Courier New', Courier, monospace" font-size="10" fill="#8b949e">Full stack CV analysis — AI feedback flow, interview steps, CV preview, PDF download.</text>
+  <text x="70" y="274" font-family="'Courier New', Courier, monospace" font-size="9" fill="#6e7681">Next.js 14 · Claude API · CSS Modules · PDF generation</text>
+  <text x="820" y="238" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="9" fill="#d4a853">4 días · Claude Code + Cursor</text>
 </svg>

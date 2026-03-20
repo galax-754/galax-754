@@ -1,20 +1,15 @@
 <svg width="860" height="130" viewBox="0 0 860 130" xmlns="http://www.w3.org/2000/svg">
   <rect width="860" height="130" fill="#0d1117"/>
-  <line x1="0" y1="0" x2="860" y2="0" stroke="#1a1f2e" stroke-width="1"/>
-  <!-- vertical dividers -->
-  <line x1="286" y1="0" x2="286" y2="130" stroke="#1a1f2e" stroke-width="1"/>
-  <line x1="573" y1="0" x2="573" y2="130" stroke="#1a1f2e" stroke-width="1"/>
-  <!-- stat 1 -->
-  <text x="143" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#ffffff" opacity="0.9">286</text>
-  <text x="143" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#2d3748">CONTRIBUTIONS THIS YEAR</text>
-  <!-- stat 2 -->
-  <text x="429" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#ffffff" opacity="0.9">3</text>
-  <text x="429" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#2d3748">SYSTEMS IN PRODUCTION</text>
-  <!-- stat 3 -->
-  <text x="716" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#d4a853" opacity="0.8">$0</text>
-  <text x="716" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#2d3748">STACK COST</text>
-  <!-- dot accents -->
+  <line x1="0" y1="0" x2="860" y2="0" stroke="#30363d" stroke-width="1"/>
+  <line x1="286" y1="0" x2="286" y2="130" stroke="#30363d" stroke-width="1"/>
+  <line x1="573" y1="0" x2="573" y2="130" stroke="#30363d" stroke-width="1"/>
+  <text x="143" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#ffffff">286</text>
+  <text x="143" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#6e7681">CONTRIBUTIONS THIS YEAR</text>
+  <text x="429" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#ffffff">3</text>
+  <text x="429" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#6e7681">SYSTEMS IN PRODUCTION</text>
+  <text x="716" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" fill="#d4a853">$0</text>
+  <text x="716" y="88" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="8" letter-spacing="2.5" fill="#6e7681">STACK COST</text>
   <circle cx="143" cy="108" r="2" fill="#d4a853" opacity="0.3"/>
   <circle cx="429" cy="108" r="2" fill="#d4a853" opacity="0.3"/>
-  <circle cx="716" cy="108" r="2" fill="#d4a853" opacity="0.5"/>
+  <circle cx="716" cy="108" r="2" fill="#d4a853" opacity="0.6"/>
 </svg>

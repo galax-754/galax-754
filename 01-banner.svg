@@ -9,8 +9,8 @@
   <circle cx="30" cy="148" r="2.5" fill="#d4a853" opacity="0.5"/>
   <circle cx="60" cy="178" r="4" fill="#d4a853" opacity="0.3"/>
   <line x1="44" y1="50" x2="44" y2="155" stroke="#d4a853" stroke-width="0.8" opacity="0.5"/>
-  <text x="56" y="64" font-family="'Courier New', Courier, monospace" font-size="8.5" letter-spacing="4" fill="#d4a853" opacity="0.65">FULL STACK · AI-ASSISTED DEV</text>
-  <text x="50" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="400" letter-spacing="-3" fill="#ffffff" opacity="0.97">Kareny Garza</text>
-  <text x="52" y="178" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2.5" fill="#2d3748">Claude Code · Cursor · n8n · MCP · Next.js · Python</text>
-  <text x="820" y="178" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8.5" letter-spacing="1.5" fill="#2a2a2a">UANL 2026</text>
+  <text x="56" y="64" font-family="'Courier New', Courier, monospace" font-size="8.5" letter-spacing="4" fill="#d4a853">FULL STACK · AI-ASSISTED DEV</text>
+  <text x="50" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="88" font-weight="400" letter-spacing="-3" fill="#ffffff">Kareny Garza</text>
+  <text x="52" y="178" font-family="'Courier New', Courier, monospace" font-size="10" letter-spacing="2.5" fill="#8b949e">Claude Code · Cursor · n8n · MCP · Next.js · Python</text>
+  <text x="820" y="178" text-anchor="end" font-family="'Courier New', Courier, monospace" font-size="8.5" letter-spacing="1.5" fill="#6e7681">UANL 2026</text>
 </svg>
