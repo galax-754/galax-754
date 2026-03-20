@@ -1,9 +1,9 @@
-![banner](./assets/01-banner.svg)
-![about](./assets/02-about.svg)
-![stack](./assets/03-stack.svg)
-![projects](./assets/04-projects.svg)
-![stats](./assets/05-stats.svg)
-![experience](./assets/06-experience.svg)
+![banner](./01-banner.svg)
+![about](./02-about.svg)
+![stack](./03-stack.svg)
+![projects](./04-projects.svg)
+![stats](./05-stats.svg)
+![experience](./06-experience.svg)
 
 <div align="center">
 
