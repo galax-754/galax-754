@@ -11,4 +11,4 @@
 
 </div>
 
-![footer](./assets/07-footer.svg)
+![footer](./07-footer.svg)
