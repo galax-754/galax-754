@@ -1,27 +1,20 @@
 <div align="center">
 
-<!-- Cuando tengas foto, reemplaza la línea de abajo con: <img src="TU_URL_DE_FOTO" width="100" style="border-radius:50%"/> -->
-
-# Kareny Garza
-**Full Stack Developer · AI-Assisted Development**
-
-*Construyo productos funcionales end-to-end usando IA como herramienta central*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mi-portafolio-zeta-five.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenygarza/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:garzakareny5@gmail.com)
-
-📍 Santiago, N.L., México &nbsp;·&nbsp; 🎓 UANL · Lic. Ciencias Computacionales (Jun 2026) &nbsp;·&nbsp; 🟢 Open to work
+![banner](./banner.svg)
 
 </div>
 
----
+<br>
 
 ## About me
 
 I build end-to-end products using AI as a primary development tool — Claude Code, Cursor, V0.dev. I design solution architectures, direct implementation with AI-assisted tools, and validate results. I combine this with n8n automation, AI API integration, and production deployment.
 
 > *Mi diferenciador: no solo uso IA — la dirijo para construir productos reales.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mi-portafolio-zeta-five.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karenygarza/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:garzakareny5@gmail.com)
 
 ---
 
@@ -61,7 +54,7 @@ Cinematic hero, scroll-triggered GSAP animations, product slider. Fully built wi
 ### 🤖 Bug & Feedback Bot — AI Automation
 > `n8n` `Tally` `Groq API (LLaMA 3.3)` `Gmail OAuth2`
 
-End-to-end automation: structured form → n8n → LLaMA 3.3 classifies the report → formatted email delivered in <3 seconds. **$0 stack.**
+End-to-end automation: structured form → n8n → LLaMA 3.3 classifies the report → formatted email in <3 seconds. **$0 stack.**
 
 ⏱ **1 hour** &nbsp;·&nbsp; 🤖 Groq API + n8n &nbsp;·&nbsp; 💰 Cost: $0
 
@@ -95,9 +88,9 @@ Tech device management, digital inventory in Notion, entrepreneur support.
 
 <div align="center">
 
-![Kareny's GitHub stats](https://github-readme-stats.vercel.app/api?username=galax-754&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+![Kareny's GitHub stats](https://github-readme-stats.vercel.app/api?username=galax-754&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=080808&title_color=d4a853&icon_color=d4a853&text_color=888888)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galax-754&layout=compact&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galax-754&layout=compact&hide_border=true&theme=dark&bg_color=080808&title_color=d4a853&text_color=888888)
 
 </div>
 
